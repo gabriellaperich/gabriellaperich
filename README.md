@@ -1,4 +1,4 @@
-### Olá, sou a Bibi! ☀️
+### < Hi, I'm Bibi dev /> ☀️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
